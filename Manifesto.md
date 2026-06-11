@@ -1,0 +1,1 @@
+Personal data has become one of the world's most valuable resources, yet individuals have little control over how it is collected, used, and monetized. StarVault exists to establish ownership, consent, and transparency as fundamental properties of the internet.
